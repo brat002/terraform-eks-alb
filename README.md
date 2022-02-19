@@ -7,6 +7,6 @@
 
 How to check:
 
-Run https://aws.amazon.com/premiumsupport/knowledge-center/eks-alb-ingress-controller-setup/
+Run game 2048 from example https://aws.amazon.com/premiumsupport/knowledge-center/eks-alb-ingress-controller-setup/
 
 https://learnk8s.io/terraform-eks
